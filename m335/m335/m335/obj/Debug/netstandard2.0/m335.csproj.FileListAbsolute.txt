@@ -1,0 +1,48 @@
+C:\Users\alp-e\RiderProjects\m335\m335\m335\bin\Debug\netstandard2.0\m335.deps.json
+C:\Users\alp-e\RiderProjects\m335\m335\m335\bin\Debug\netstandard2.0\m335.dll
+C:\Users\alp-e\RiderProjects\m335\m335\m335\bin\Debug\netstandard2.0\m335.pdb
+C:\Users\alp-e\RiderProjects\m335\m335\m335\obj\Debug\netstandard2.0\m335.csproj.AssemblyReference.cache
+C:\Users\alp-e\RiderProjects\m335\m335\m335\obj\Debug\netstandard2.0\m335.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alp-e\RiderProjects\m335\m335\m335\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\alp-e\RiderProjects\m335\m335\m335\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\alp-e\RiderProjects\m335\m335\m335\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\alp-e\RiderProjects\m335\m335\m335\obj\Debug\netstandard2.0\Views\m335EntryPage.xaml.g.cs
+C:\Users\alp-e\RiderProjects\m335\m335\m335\obj\Debug\netstandard2.0\Views\m335Page.xaml.g.cs
+C:\Users\alp-e\RiderProjects\m335\m335\m335\obj\Debug\netstandard2.0\m335.AssemblyInfoInputs.cache
+C:\Users\alp-e\RiderProjects\m335\m335\m335\obj\Debug\netstandard2.0\m335.AssemblyInfo.cs
+C:\Users\alp-e\RiderProjects\m335\m335\m335\obj\Debug\netstandard2.0\m335.csproj.CoreCompileInputs.cache
+C:\Users\alp-e\RiderProjects\m335\m335\m335\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\alp-e\RiderProjects\m335\m335\m335\obj\Debug\netstandard2.0\m335.dll
+C:\Users\alp-e\RiderProjects\m335\m335\m335\obj\Debug\netstandard2.0\m335.pdb
+C:\Users\alp-e\OneDrive - DIG-IT Produktive Umgebung\Desktop\Projects\C#\m335\m335\m335\bin\Debug\netstandard2.0\m335.deps.json
+C:\Users\alp-e\OneDrive - DIG-IT Produktive Umgebung\Desktop\Projects\C#\m335\m335\m335\bin\Debug\netstandard2.0\m335.dll
+C:\Users\alp-e\OneDrive - DIG-IT Produktive Umgebung\Desktop\Projects\C#\m335\m335\m335\bin\Debug\netstandard2.0\m335.pdb
+C:\Users\alp-e\OneDrive - DIG-IT Produktive Umgebung\Desktop\Projects\C#\m335\m335\m335\obj\Debug\netstandard2.0\m335.csproj.AssemblyReference.cache
+C:\Users\alp-e\OneDrive - DIG-IT Produktive Umgebung\Desktop\Projects\C#\m335\m335\m335\obj\Debug\netstandard2.0\m335.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alp-e\OneDrive - DIG-IT Produktive Umgebung\Desktop\Projects\C#\m335\m335\m335\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\alp-e\OneDrive - DIG-IT Produktive Umgebung\Desktop\Projects\C#\m335\m335\m335\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\alp-e\OneDrive - DIG-IT Produktive Umgebung\Desktop\Projects\C#\m335\m335\m335\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\alp-e\OneDrive - DIG-IT Produktive Umgebung\Desktop\Projects\C#\m335\m335\m335\obj\Debug\netstandard2.0\Views\m335EntryPage.xaml.g.cs
+C:\Users\alp-e\OneDrive - DIG-IT Produktive Umgebung\Desktop\Projects\C#\m335\m335\m335\obj\Debug\netstandard2.0\Views\m335Page.xaml.g.cs
+C:\Users\alp-e\OneDrive - DIG-IT Produktive Umgebung\Desktop\Projects\C#\m335\m335\m335\obj\Debug\netstandard2.0\m335.AssemblyInfoInputs.cache
+C:\Users\alp-e\OneDrive - DIG-IT Produktive Umgebung\Desktop\Projects\C#\m335\m335\m335\obj\Debug\netstandard2.0\m335.AssemblyInfo.cs
+C:\Users\alp-e\OneDrive - DIG-IT Produktive Umgebung\Desktop\Projects\C#\m335\m335\m335\obj\Debug\netstandard2.0\m335.csproj.CoreCompileInputs.cache
+C:\Users\alp-e\OneDrive - DIG-IT Produktive Umgebung\Desktop\Projects\C#\m335\m335\m335\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\alp-e\OneDrive - DIG-IT Produktive Umgebung\Desktop\Projects\C#\m335\m335\m335\obj\Debug\netstandard2.0\m335.dll
+C:\Users\alp-e\OneDrive - DIG-IT Produktive Umgebung\Desktop\Projects\C#\m335\m335\m335\obj\Debug\netstandard2.0\m335.pdb
+C:\Users\alp-e\Documents\Projects\C#\m335\m335\m335\bin\Debug\netstandard2.0\m335.deps.json
+C:\Users\alp-e\Documents\Projects\C#\m335\m335\m335\bin\Debug\netstandard2.0\m335.dll
+C:\Users\alp-e\Documents\Projects\C#\m335\m335\m335\bin\Debug\netstandard2.0\m335.pdb
+C:\Users\alp-e\Documents\Projects\C#\m335\m335\m335\obj\Debug\netstandard2.0\m335.csproj.AssemblyReference.cache
+C:\Users\alp-e\Documents\Projects\C#\m335\m335\m335\obj\Debug\netstandard2.0\m335.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alp-e\Documents\Projects\C#\m335\m335\m335\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\alp-e\Documents\Projects\C#\m335\m335\m335\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\alp-e\Documents\Projects\C#\m335\m335\m335\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\alp-e\Documents\Projects\C#\m335\m335\m335\obj\Debug\netstandard2.0\Views\m335EntryPage.xaml.g.cs
+C:\Users\alp-e\Documents\Projects\C#\m335\m335\m335\obj\Debug\netstandard2.0\Views\m335Page.xaml.g.cs
+C:\Users\alp-e\Documents\Projects\C#\m335\m335\m335\obj\Debug\netstandard2.0\m335.AssemblyInfoInputs.cache
+C:\Users\alp-e\Documents\Projects\C#\m335\m335\m335\obj\Debug\netstandard2.0\m335.AssemblyInfo.cs
+C:\Users\alp-e\Documents\Projects\C#\m335\m335\m335\obj\Debug\netstandard2.0\m335.csproj.CoreCompileInputs.cache
+C:\Users\alp-e\Documents\Projects\C#\m335\m335\m335\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\alp-e\Documents\Projects\C#\m335\m335\m335\obj\Debug\netstandard2.0\m335.dll
+C:\Users\alp-e\Documents\Projects\C#\m335\m335\m335\obj\Debug\netstandard2.0\m335.pdb

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="m335.Views.AboutPage"
+             Title="Hilfe">
+    <!-- Layout children in two rows -->
+    <Grid RowDefinitions="Auto,*">
+        <Image Source="xamarin_logo"
+               VerticalOptions="Center" 
+               HeightRequest="50" 
+               Grid.Row="1"/>
+        <!-- Layout children vertically -->
+        <StackLayout Grid.Row="1"
+                     Margin="20"
+                     Spacing="20">
+            <Label FontSize="22">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <FormattedString.Spans>
+                            <Span Text="Modularbeit 335" 
+                                  FontAttributes="Bold" 
+                                  FontSize="22" />
+                        </FormattedString.Spans>
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>
+            <Label Text="Dies ist eine Spieledatenbank für die Modularbeit M335, programmiert von Alperen Yilmaz. Falls Sie Hilfe brauchen, mit Xamarin umzugehen bzw. zu verwenden, klicken Sie den folgenden Link: " FontSize="Medium"/>
+            <Button Text="Hilfe"
+                    Clicked="OnButtonClicked"/>
+        </StackLayout>
+    </Grid>
+</ContentPage>

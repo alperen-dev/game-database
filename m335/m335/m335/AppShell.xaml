@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Shell xmlns="http://xamarin.com/schemas/2014/forms"
+       xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+       xmlns:views="clr-namespace:m335.Views"
+       x:Class="m335.AppShell">
+    <!-- Display a bottom tab bar containing two tabs -->
+    <TabBar>
+        <ShellContent Title="Spieledatenbank"
+                      Icon="icon_feed.png"
+                      ContentTemplate="{DataTemplate views:m335Page}" />
+        <ShellContent Title="Hilfe"
+                      Icon="icon_about.png"
+                      ContentTemplate="{DataTemplate views:AboutPage}" />
+    </TabBar>
+</Shell>
